@@ -1,0 +1,325 @@
+/* tab bar title */
+"Current Song" = "Reproduzindo";
+
+/* sub label text */
+"Tap long to play a random song." = "Dê um toque longo na tela \nou vá para a app de Música do \nseu %@ e reproduza uma música!";
+
+/* no songs alert - dismiss button */
+"ok" = "OK";
+
+/* finished message */
+"Remembered %@" = "Recordou de %@";
+
+/* progress message */
+"Remembering..." = "Recordando...";
+
+/* no songs alert - title */
+"Sorry" = "Desculpe";
+
+/* no songs alert - message */
+"You do not have any songs on your device. Please get some first." = "Você não tem qualquer música nesse dispositivo. Por favor baixe algumas antes";
+
+/* big label text */
+"No song currently playing..." = "Nenhuma música em reprodução…";
+
+/* pasteboard template */
+"%@ by %@" = "%1$@ por %2$@";
+
+/* history table cell detail text evernoted */
+"by %@\nplayed %@, evernoted" = "de %1$@\ntocadas %2$@, anotadas em Evernote";
+
+/* tab bar title */
+"History" = "Histórico";
+
+/* history table cell detail text not evernoted */
+"by %@\nplayed %@" = "de %1$@\ntocada a %2$@";
+
+/* cell label */
+"Artist" = "Artista";
+
+/* alert button */
+"Continue" = "Continuar";
+
+/* cell label */
+"Cover Art" = "Capa do álbum";
+
+/* progress failure message */
+"Error '%d'. Please try again." = "Erro '%d'. Por favor tente novamente.";
+
+/* section title */
+"Evernote" = "Evernote";
+
+/* alert title */
+"Not connected to Evernote" = "Desconetado de Evernote";
+
+/* cell label */
+"Post Date" = "Data do Post";
+
+/* action button */
+"Post to Evernote" = "Poste no Evernote";
+
+/* progress message */
+"Posting to Evernote..." = "Postando no Evernote...";
+
+/* section header */
+"Song Details" = "Detalhes da Canção";
+
+/* progress success message */
+"Success!" = "Sucesso!";
+
+/* cell message */
+"This song has not yet been posted to Evernote." = "Essa canção ainda não foi postada no Evernote";
+
+/* cell label */
+"Title" = "Título";
+
+/* alert message */
+"You have not authorized Eversong to post to Evernote. Press continue to do so." = "Você ainda não autorizou o Eversong a postar no Evernote. Pressione continuar para fazer isso.";
+
+/* cell label */
+"Played" = "Reproduzidas";
+
+/* action button */
+"Play" = "Reproduzir";
+
+/* cell label
+   section header */
+"Advanced Settings" = "Ajustes Avançados";
+
+/* cell text */
+"Auto Evernoting" = "Postar automaticamente no Evernote";
+
+/* action sheet button */
+"Cancel" = "Cancelar";
+
+/* alert title */
+"Cannot send mails" = "Impossível enviar emails";
+
+/* action button */
+"Connect to Evernote" = "Conectar ao Evernote";
+
+/* email message subject */
+"Eversong Feedback" = "Feedback sobre Eversong";
+
+/* controller title */
+"Eversong Help" = "Ajuda do Eversong";
+
+/* mail message subject */
+"Eversong" = "Eversong";
+
+/* action button */
+"Feature Request" = "Pedir Recurso";
+
+/* cell label */
+"Help" = "Ajuda";
+
+/* alert title */
+"Hi! I'm Klaas!" = "Olá! Eu sou o Klaas!";
+
+/* email message subject */
+"I want a new feature in Eversong!" = "Eu quero um novo Recurso no Eversong";
+
+/* tweet message */
+"I'm happily using @eversongapp to remember my songs." = "Estou muito feliz usando @eversongapp para lembrar de minha música.";
+
+/* mail message body */
+"I'm using Eversong. Mail." = "Estou usando <a href='http://itunes.apple.com/de/app/eversong/id530747497'>Eversong</a> para lembrar de minha música predileta. Também vai querer?";
+
+/* cell text */
+"Include Cover Art" = "Incluir Capa do Álbum";
+
+/* section header */
+"Interaction" = "Interação";
+
+/* action button */
+"Logout" = "Sair";
+
+/* action sheet button */
+"Mail" = "Correio";
+
+/* section header */
+"More" = "Mais";
+
+/* cell label */
+"Music Library Statistics" = "Estatísticas da Biblioteca";
+
+/* alert message */
+"No mail accounts configured" = "Nenhuma conta de Mail Configurada";
+
+/* cell message */
+"not logged in" = "não está logado";
+
+/* alert button */
+"Ok" = "OK";
+
+/* action button */
+"Rate Eversong" = "Avalie Eversong";
+
+/* action sheet title */
+"Recommend Eversong by" = "Recomende Eversong por";
+
+/* action button */
+"Send Feedback" = "Env. mensagem ao Desenvolvedor";
+
+/* button */
+"Share with Friends" = "Partilhe com seus Amigos";
+
+/* action sheet button */
+"Text Message" = "Mensagem de Texto";
+
+/* action sheet button */
+"Tweet" = "Tweetar";
+
+/* cell title */
+"Username" = "Nome de Usuário";
+
+/* cell message */
+"You are currently not connected to Evernote. Press the button below to connect." = "Atualmente, o Eversong não está conectado ao Evernote. Pressione o botão em baixo para ligar.";
+
+/* alert message */
+"You have at least one wish free. Please write down, what feature is missing in Eversong, and I'll take care of it. Sincerely, Klaas." = "Você tem pelo menos um desejo ainda. Por favor anote que Recurso você acha está faltando ao Eversong, e eu tomarei conta dele. Cumprimentos, Klaas.";
+
+/* tab bar title */
+"Settings" = "Ajustes";
+
+/* cell label */
+"0 Star Songs" = "Canções de 0 Estrelas";
+
+/* cell label */
+"1 Star Songs" = "Canções de 1 Estrela";
+
+/* cell label */
+"2 Star Songs" = "Canções de 2 Estrelas";
+
+/* cell label */
+"3 Star Songs" = "Canções de 3 Estrelas";
+
+/* cell label */
+"4 Star Songs" = "Canções de 4 Estrelas";
+
+/* cell label */
+"5 Star Songs" = "Canções de 5 Estrelas";
+
+/* email message body */
+"Hi! I'd like to share that I have %d songs with 5 stars, %d songs with 4 stars, %d songs with 3 stars, %d songs with 2 stars, %d songs with 1 star in a total of %d songs!\n\n" = "Olá! Eu gostaria de partilhar com você que eu tenho %1$d músicas com 5 estrelas, %2$d músicas com 4 estrelas, %3$d músicas com 3 estrelas, %4$d músicas com 2 estrelas, %5$d músicas com 1 estrela num total de %6$d músicas!\n\n";
+
+/* controller title */
+"Library Statistics" = "Estatísticas da Biblioteca";
+
+/* email message subject */
+"Statistics of my Songs" = "Estatísticas da minha Música";
+
+/* cell label */
+"Total Number Of Songs" = "Número Total de Músicas";
+
+/* Evernote note title (title,artist,playDate) */
+"%@ by %@ (%@)" = "%1$@ de %2$@ (%3$@)";
+
+/* Evernote note suffix */
+"Remembered by Eversong." = "Recordado por <a href='http://itunes.apple.com/de/app/eversong/id530747497'>Eversong</a>.";
+
+/* butten label */
+"Remember this Song" = "Recordar Música";
+
+/* text message body */
+"I'm using Eversong. Text." = "Eu estou usando Evernote (http://bit.ly/LE8MdM) para recordar minha lista de música.";
+
+/* section header */
+"Comments" = "Comentários";
+
+/* cell text */
+"FeaturePack1 Purchased" = "FeaturePack1 Adquirido";
+
+/* cell label */
+"Lyrics" = "Cifras";
+
+/* text */
+"no lyrics" = "Não tem Cifras";
+
+/* action button */
+"Re-Post to Evernote" = "Re-Postar no Evernote";
+
+/* section header */
+"Evernote Note Configuration" = "Ajustes de Notas do Evernote";
+
+/* cell text */
+"Include Comments" = "Incluir Comentários";
+
+/* cell text */
+"Include Lyrics" = "Incluir Cifras";
+
+/* enml header */
+"Comments:" = "Comentários pessoais";
+
+/* enml header */
+"Lyrics:" = "Cifras:";
+
+/* cell text */
+"Include Eversong Footer" = "Inc. ligação p/ Eversong";
+
+/* alert view title */
+"In App Purchase" = "Compra In App";
+
+/* alert view button */
+"No, thanks" = "Não, obrigado";
+
+/* alert view message */
+"To disable the Eversong footer you have to buy Feature Pack 1" = "Para desativar o rodapé do Eversong você tem de adquirir Feature Pack 1";
+
+/* progress text */
+"Contacting Evernote..." = "Contactando Evernote...";
+
+/* alert view text */
+"Couldn't get notebooks from Evernote." = "Não foi possível obter os cadernos do Evernote.";
+
+/* alert view title */
+"Error" = "Erro";
+
+/* mail message body */
+"I'm listening to %@ by %@. Mail." = "%1$@ de %2$@ é muito legal! Obrigado ao <a href=\"http://bit.ly/LE8MdM\">Eversong</a> por me lembrar!";
+
+/* text message text */
+"I'm listening to %@ by %@. Text." = "%1$@ de %2$@ é muito legal! Obrigado ao Eversong http://bit.ly/LE8MdM por me lembrar!";
+
+/* tweet message */
+"I'm listening to %@ by %@. Twitter." = "%@ de %@ é muito legal! Obrigado ao @eversongapp por me lembrar";
+
+/* mail message subject */
+"Listening with Eversong" = "Sugestão de Música";
+
+/* cell title */
+"Notebook" = "Caderno";
+
+/* action sheet title */
+"Share that you are listening to '%@'" = "Partilhe que você está ouvindo '%@'";
+
+/* action button */
+"Share" = "Partilhar";
+
+/* alert view title */
+"No active playlist" = "Nenhuma lista ativa";
+
+/* alert view message */
+"Please tap long on the text to create a random playlist." = "Por favor pressione longo no texto para criar uma lista de reprodução aleatória.";
+
+/* cell text */
+"Song Detail Include Comments" = "Incluir Comentários";
+
+/* cell text */
+"Song Detail Include Lyrics" = "Incluir Cifras";
+
+/* toolbar button */
+"You're welcome!" = "Bem-vindo!";
+
+/* alert message */
+"Couldn't find history entry. This happens if the entry was deleted in Eversong." = "Não foi possível encontrar a entrada no histórico. Isso sucede se a entrada foi deletada do Eversong.";
+
+/* cell text */
+"Include Eversong Link" = "Inc. ligação p/ Eversong";
+
+/* view controller title */
+"Select Notebook" = "Escolher Caderno";
+
+/* enml text */
+"Open in Eversong" = "Abrir no Eversong";
+
